@@ -1,0 +1,57 @@
+---
+title: "Markdown"
+author: "User"
+date: "27 10 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```  
+Plain text  
+*italic Text*  
+**bold Text**  
+_another italic_  
+__another bold__  
+superscript^2^  
+~~strikethrought~~  
+
+Header1
+==
+Header2
+--
+### Header3
+#### Header4  
+##### Header5
+###### Header6  
+endash: --  
+emdash: ---  
+ellipsis: ...  
+inline equation: $20+5=25$  
+image: ![image](https://i.pinimg.com/236x/4a/59/17/4a59172fc6d31c10bca6474c81eb34dc.jpg)  
+horizontal rule (or slide break):  
+
+***  
+
+> block quote  
+
+* unordered list
+* item 2
+  + sub-item 1
+  + sub-item 2
+  
+1. ordered list
+2. item 2
+  + sub-item 1
+  + sub-item 2
+  
+Header1  |   Header2
+---------|----------
+Cell1    |   Cell2
+Cell4    |   Cell5   
+
+  
+
+
+
+
