@@ -1,8 +1,8 @@
 # compTech
 Компьютерные технологии в науке и производстве
-# This is an <h1> tag  
-## This is an <h2> tag  
-###### This is an <h6> tag  
+# This is an \<h1\> tag  
+## This is an \<h2\> tag  
+###### This is an \<h6\> tag  
   
 *This text will be italic*
 _This will also be italic_
@@ -46,8 +46,9 @@ function test() {
 - [ ] this is an incomplete item  
 - [x] @mentions, #refs, [links](), **formating**, and <del>tags</del> supported  
 - [x] list syntax required (any unordered or ordered list supported)  
-Header1  |   Header2
----------|----------
-Cell1    |   Cell2
-Cell4    |   Cell5  
+
+Header1 | Header2  
+--------|--------  
+Cell1 | Cell2  
+Cell4 | Cell5  
 
